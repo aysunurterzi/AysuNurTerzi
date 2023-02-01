@@ -36,6 +36,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-follow%20on%20instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/aysunurterzi/)
 
-![Linkedin Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-black?style=for-the-badge&logo=gmail)
+![Linkedin Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-white?style=for-the-badge&logo=gmail)
 
  
