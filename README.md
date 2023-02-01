@@ -32,8 +32,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aysu-nur-terzi-10a53123b/)
-[!instagram Badge](https://img.shields.io/badge/aysunurterzi-follow%20on%20instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/aysunurterzi/)
-[![Gmail Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-black?style=for-the-badge&logo=gmail)](e.g.: aysunurterzi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-follow%20on%20instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/aysunurterzi/)
+[![Linkedin Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-black?style=for-the-badge&logo=gmail)](e.g.: aysunurterzi@gmail.com)
 
 
  ✨ _special_ ✨
