@@ -9,7 +9,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysunurterzi&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
-
+<--
 ## 📚 Learning & Interested
 
 <code><img height="75" src="https://www.flaticon.com/free-icon/java-script_1199124?term=computer+language&page=1&position=5&origin=search&related_id=1199124"></code>
@@ -27,7 +27,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 <code><img height="75" src="https://www.flaticon.com/free-icon/book_3145765?term=read%C4%B0ng&page=1&position=38&origin=search&related_id=3145765"></code>
 <code><img height="75" src="https://www.flaticon.com/free-icon/computer_3067287?term=computer&related_id=3067287"></code>
 
-
+-->
 
 ## 📫 Contact Me
 
