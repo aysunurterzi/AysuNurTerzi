@@ -3,7 +3,7 @@
 Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student living in Istanbul, I am 23 years old. Here I am sharing my projects that I have been working on all my life. I hope you enjoy. 😄</p>
 
 
-## 📌 GitHub Stats And Top Languages
+## 📌 GitHub Top Languages
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysunurterzi&layout=compact&hide=html,css" alt="My Top Langs" />
