@@ -8,8 +8,8 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img style="height:200px; margin: 40px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysunurterzi&layout=compact&hide=html,css" alt="My Top Langs" >
-  <img style="height:200px; margin: 40px;" src="https://github-readme-stats.vercel.app/api?username=aysunurterzi&show_icons=true&layout=compact&hide=html,css" alt="stats">
+  <img style="height:200px; margin-right: 40px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysunurterzi&layout=compact&hide=html,css" alt="My Top Langs" >
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=aysunurterzi&show_icons=true&layout=compact&hide=html,css" alt="stats">
 </div>
 
 
