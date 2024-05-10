@@ -7,8 +7,9 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 
 
 
-<div style="display: flex; justify-content: space-around; gap:200px; ">
+<div style="display: flex; justify-content: space-around; ">
   <img style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysunurterzi&layout=compact&hide=html,css" alt="My Top Langs" >
+   <div style="width: 20px;"></div> 
   <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=aysunurterzi&show_icons=true&layout=compact&hide=html,css" alt="stats">
 </div>
 
