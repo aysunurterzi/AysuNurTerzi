@@ -36,3 +36,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 </div>  
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=GoktugMuratDemir&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
