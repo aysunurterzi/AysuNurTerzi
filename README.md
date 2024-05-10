@@ -15,8 +15,6 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 
 [![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aysu-nur-terzi-10a53123b/)
 
-[![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-follow%20on%20instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/aysunurterzi/)
-
 ![Linkedin Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-white?style=for-the-badge&logo=gmail)
 
  
