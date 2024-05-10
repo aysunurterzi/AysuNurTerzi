@@ -10,7 +10,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 </p>
 
 <p float="center">
- <img  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=aysunurterzi&layout=compact&hide=html,css](https://medium.com/@aysunurterzi/github-profi%CC%87li%CC%87-i%CC%87%C3%A7i%CC%87n-read-me-dosyasi-olu%C5%9Fturma-ve-d%C3%BCzenleme-53470377bbc0)" alt="My Top Langs" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aysunurterzi&show_icons=true&theme=radical)
 </p>
 
 
