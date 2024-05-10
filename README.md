@@ -11,7 +11,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=aysunurterzi icons=true)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=aysunurterzi)
 
 
 ## 📫 Contact Me
