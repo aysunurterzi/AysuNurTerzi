@@ -7,13 +7,12 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysunurterzi&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=aysunurterzi&show_icons=true&layout=compact&hide=html,css" alt="stats" />
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=aysunurterzi&show_icons=true)
 
-
+</p>
 
 ## 📫 Contact Me
 
