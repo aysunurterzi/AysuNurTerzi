@@ -1,6 +1,6 @@
 ### Hi Everybody.
 <p float="center">
-Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer living in Istanbul/TURKEY, I am 24 years old. Here I am sharing my projects that I have been working on all my life. I hope you enjoy. 😄</p>
+Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer living in Istanbul / TURKEY, I am 24 years old. Here I am sharing my projects that I have been working on all my life. I hope you enjoy. 😄</p>
 
 
 ## 📌 GitHub Top Languages
