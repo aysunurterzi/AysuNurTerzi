@@ -18,7 +18,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer living i
 
 
 [![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aysu-nur-terzi-10a53123b/) ![Linkedin Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-white?style=for-the-badge&logo=gmail)
-<div align="center">
+<div>
 <a href="https://github.com/https://github.com/aysunurterzi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
