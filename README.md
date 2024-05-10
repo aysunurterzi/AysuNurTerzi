@@ -39,4 +39,4 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=GoktugMuratDemir&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
