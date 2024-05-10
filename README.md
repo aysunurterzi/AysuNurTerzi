@@ -10,7 +10,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer student 
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aysunurterzi icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra icons=true)
 
 
 ## 📫 Contact Me
