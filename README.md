@@ -17,7 +17,7 @@ Welcome to my Githup page. I'm Aysu Nur Terzi. I am a computer engineer living i
 ## 📫 Contact Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aysu-nur-terzi-10a53123b/) ![Linkedin Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-white?style=for-the-badge&logo=gmail) 
+[![Linkedin Badge](https://img.shields.io/badge/aysunurterzi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aysu-nur-terzi-10a53123b/) [![Linkedin Badge](https://img.shields.io/badge/aysunurterzi@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:aysunurterzi@gmail.com)
 
  
 ## Languages and Tools  
